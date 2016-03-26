@@ -1,0 +1,3 @@
+This is the second file and a text file.
+
+amend the last commit with this change
