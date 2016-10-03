@@ -1,5 +1,5 @@
 This is the second file and a text file.
 
-amend the last commit with this change with  the chaneh
+amend the last commit with this change wit33h  the chaneh
 
 third line added
